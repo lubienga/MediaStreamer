@@ -14,7 +14,7 @@
 
 
 ## `Screenshot`
-![](mediastreamer.JPG)
+![](MediaStreamer-streamer/mediastreamer.JPG)
 
 ## `Getting Started`
 
